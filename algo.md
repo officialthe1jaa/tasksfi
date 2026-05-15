@@ -10,3 +10,4 @@ Algorithm 9 solved
 Algorithm 10 solved
 Algorithm 11 solved
 Algorithm 12 solved
+Algorithm 13 solved
