@@ -83,3 +83,4 @@ Algorithm 82 solved
 Algorithm 83 solved
 Algorithm 84 solved
 Algorithm 85 solved
+Algorithm 86 solved
