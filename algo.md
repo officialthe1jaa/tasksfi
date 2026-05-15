@@ -77,3 +77,4 @@ Algorithm 76 solved
 Algorithm 77 solved
 Algorithm 78 solved
 Algorithm 79 solved
+Algorithm 80 solved
