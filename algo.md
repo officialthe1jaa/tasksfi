@@ -67,3 +67,4 @@ Algorithm 66 solved
 Algorithm 67 solved
 Algorithm 68 solved
 Algorithm 69 solved
+Algorithm 70 solved
