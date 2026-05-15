@@ -91,3 +91,4 @@ Algorithm 90 solved
 Algorithm 91 solved
 Algorithm 92 solved
 Algorithm 93 solved
+Algorithm 94 solved
