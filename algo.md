@@ -30,3 +30,4 @@ Algorithm 29 solved
 Algorithm 30 solved
 Algorithm 31 solved
 Algorithm 32 solved
+Algorithm 33 solved
