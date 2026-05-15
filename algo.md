@@ -20,3 +20,4 @@ Algorithm 19 solved
 Algorithm 20 solved
 Algorithm 21 solved
 Algorithm 22 solved
+Algorithm 23 solved
