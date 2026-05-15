@@ -15,3 +15,4 @@ Algorithm 14 solved
 Algorithm 15 solved
 Algorithm 16 solved
 Algorithm 17 solved
+Algorithm 18 solved
