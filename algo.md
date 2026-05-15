@@ -8,3 +8,4 @@ Algorithm 7 solved
 Algorithm 8 solved
 Algorithm 9 solved
 Algorithm 10 solved
+Algorithm 11 solved
