@@ -24,3 +24,4 @@ Algorithm 23 solved
 Algorithm 24 solved
 Algorithm 25 solved
 Algorithm 26 solved
+Algorithm 27 solved
