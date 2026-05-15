@@ -64,3 +64,4 @@ Algorithm 63 solved
 Algorithm 64 solved
 Algorithm 65 solved
 Algorithm 66 solved
+Algorithm 67 solved
