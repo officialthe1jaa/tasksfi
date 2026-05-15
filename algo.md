@@ -96,3 +96,4 @@ Algorithm 95 solved
 Algorithm 96 solved
 Algorithm 97 solved
 Algorithm 98 solved
+Algorithm 99 solved
