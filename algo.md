@@ -40,3 +40,4 @@ Algorithm 39 solved
 Algorithm 40 solved
 Algorithm 41 solved
 Algorithm 42 solved
+Algorithm 43 solved
