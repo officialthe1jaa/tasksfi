@@ -48,3 +48,4 @@ Algorithm 47 solved
 Algorithm 48 solved
 Algorithm 49 solved
 Algorithm 50 solved
+Algorithm 51 solved
