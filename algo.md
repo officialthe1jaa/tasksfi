@@ -58,3 +58,4 @@ Algorithm 57 solved
 Algorithm 58 solved
 Algorithm 59 solved
 Algorithm 60 solved
+Algorithm 61 solved
