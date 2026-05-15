@@ -75,3 +75,4 @@ Algorithm 74 solved
 Algorithm 75 solved
 Algorithm 76 solved
 Algorithm 77 solved
+Algorithm 78 solved
