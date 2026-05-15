@@ -55,3 +55,4 @@ Algorithm 54 solved
 Algorithm 55 solved
 Algorithm 56 solved
 Algorithm 57 solved
+Algorithm 58 solved
